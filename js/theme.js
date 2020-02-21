@@ -62,6 +62,7 @@ function BannerVideoSlider () {
       loops:false,
       delay:10000,
       navigation: {
+          /*
           arrows: {
                     style: "hermes",
                     enable: true,
@@ -84,6 +85,7 @@ function BannerVideoSlider () {
          bullets: {
                   enable: false,
               }
+              */
 
       },
       responsiveLevels:[2220,1183,975,751],
